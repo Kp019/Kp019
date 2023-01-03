@@ -7,6 +7,11 @@ Skills :
   - Graphic Designing using Photoshop and Illustrator.
   - UI/UX designing using Figma and Adobe XD.
   - General coding using Python, C++, C.
+  - Intrested in Brain Computing Interface
+
+Certification : 
+  - Full stack webdevelopment
+  - Data analysis using pyhton
 
 <!---
 Kp019/Kp019 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
