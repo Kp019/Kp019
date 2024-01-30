@@ -1,5 +1,5 @@
 👋 Hi, I’m Krishnaprasad R
-I'm a Tech enthusiast from kerala currently persuing my 3rd year in Electronics and Communication 
+I'm a Tech enthusiast from kerala currently persuing my 4th year in Electronics and Communication 
 from Mar Athanasius College of Engineering, Kothamangalam, Kerala.
 
 Skills :
